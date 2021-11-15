@@ -1,0 +1,9 @@
+1.Open any Rest API testing tool for example "Postman"
+
+2.Enter Post API request for e.g
+http://localhost:8080/FetchNextNumber/
+
+3.Prepare Body as below:
+{"categoryCode":1}
+
+4.Wait for response
