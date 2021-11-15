@@ -1,0 +1,7 @@
+1.clone the repository to any directory
+
+2.Open project in eclipse as existing maven project.
+
+3.Run the MainApplication file as java application
+
+4.Your application is ready to serve
